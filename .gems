@@ -1,0 +1,3 @@
+json -v 1.7.3
+redis -v 3.0.1
+fnordmetric -v 1.0.0
